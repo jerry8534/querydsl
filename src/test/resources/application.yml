@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: local
+    active: test
   datasource:
     url: jdbc:postgresql://localhost:9299/querydsl
     username: jpa
